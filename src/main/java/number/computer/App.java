@@ -1,5 +1,4 @@
 package number.computer;
-
 import java.util.Scanner;
 
 
